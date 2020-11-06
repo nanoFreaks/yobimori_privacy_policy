@@ -23,8 +23,12 @@ a {
 
 .contents-wrap{
   width: 100%;
-  text-align: center;
+  text-align: left;
   font-family:"Sawarabi Mincho"　"sans-serif", "ヒラギノ角ゴ";
+}
+
+.title-wrap{
+  padding-left: 20px;
 }
 
 .sentence-wrap{
