@@ -1,0 +1,41 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic';
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+.contents-wrap{
+  width: 100%;
+  text-align: center;
+  font-family:"Sawarabi Mincho"　"sans-serif", "ヒラギノ角ゴ";
+}
+
+.sentence-wrap{
+  margin: 20px;
+}
+
+.sentence-title{
+  font-weight: bold;
+}
+
+.sentence-contents{
+  padding-left: 20px;
+  padding-right: 20px;
+}
